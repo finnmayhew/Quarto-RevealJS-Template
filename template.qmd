@@ -1,0 +1,11 @@
+---
+format:
+  revealjs:
+    theme: theme.scss
+    html-math-method: mathjax
+    slide-number: c/t
+    footer: Title / Meeting, Date
+title: Title
+date: Date
+author: Finn Mayhew
+---

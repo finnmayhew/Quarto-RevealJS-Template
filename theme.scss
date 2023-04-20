@@ -1,0 +1,21 @@
+/*-- scss:defaults --*/
+
+$presentation-heading-color: #6b00bd !default;
+$body-color: rgb(44, 44, 44) !default;
+
+/*-- scss:rules --*/
+
+.reveal ul ul {
+  list-style-type: circle;
+  font-size: 90%
+}
+
+.hcenter {
+  text-align: center;
+}
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
