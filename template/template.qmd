@@ -4,7 +4,7 @@ format:
     theme: theme.scss
     html-math-method: mathjax
     slide-number: c/t
-    footer: Title / Meeting, Date
+    footer: Finn Mayhew / Title / Meeting, Date
     width: 1120
     height: 700
     margin: 0.1
